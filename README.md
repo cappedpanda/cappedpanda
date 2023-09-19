@@ -1,17 +1,42 @@
-# Software Engineering Profile 🚀
+<h2 align="center">👋Thank You For Your Visit</h2>
 
-## Introduction 🌟
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
+  
+### About me
 
-Hello there! Welcome to my software engineering profile. I am a passionate software engineer with expertise in various programming languages and a strong background in developing high-quality software solutions. In this README.md, I will provide you with an overview of my skills, experience, and projects. Let's dive in! 💻
+- I am a `Bachelor` of Computer Science.
+- I love using Software as a solution for every `Problem`.
+- I am a competitive programmer at `Codeforces`, `Leetcode`.
+- I’m currently learning `Data Science` and `Prompt Engineering`.
+- Always `learning new things`.
+- I’m currently open for a new `job opportunity`.
 
-## Skills 🛠️
-
-- **Programming Languages**: I am proficient in Java, Python, C++, and JavaScript. I have experience in writing clean, efficient, and maintainable code using these languages. 🖥️
-- **Web Development**: I have expertise in front-end development using HTML, CSS, and JavaScript. I am also familiar with popular frameworks such as React and Angular. 🌐
-- **Database Management**: I have worked with relational databases like MySQL and PostgreSQL, as well as NoSQL databases like MongoDB. 🗃️
-- **Version Control**: I am experienced in using Git for version control, ensuring efficient collaboration and code management within development teams. 📚
-- **Software Development Lifecycle**: I have a strong understanding of the software development process, including requirements gathering, design, implementation, testing, and deployment. 🔄
-- **Problem Solving**: I enjoy tackling complex problems and finding innovative solutions. I have a strong analytical mindset and can effectively troubleshoot issues that arise during development. 🧩
-
-Let's collaborate!
-Thank you for visiting my software engineering profile! 😊
+### Skill
+<div>
+  <table>
+      <tr>
+          <td>
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="Cpp" />
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" />
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" />
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" />
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" />
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+               <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" />
+          </td>
+      </tr>
+      <tr>
+          <td>
+                <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+                <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+                <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+              <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+          </td>
+      </tr>
+  </table>
+</div>
